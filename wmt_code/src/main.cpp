@@ -3,17 +3,18 @@
  * 
  * WashingMachineTimer on millis() scheduler
  * 
- * Wash Machine Model: 
+ * Wash Machine Model: Electrolux EWT 11262ILW
  * 
  * ***************************************************************************/
 
 #include <Arduino.h>
 #include <LiquidCrystal.h>
 #include <ezButton.h>
+#include "wm_data.h"
 
 #define buttonRightPin 8
-#define buttonLeftPin 9
-#define buttonOkPin 10
+#define buttonOkPin 9
+#define buttonLeftPin 10
 
 // Create an LCD object. Parameters: (RS, E, D4, D5, D6, D7):
 LiquidCrystal lcd = LiquidCrystal(2, 3, 4, 5, 6, 7);
@@ -76,3 +77,7 @@ void loop()
     digitalWrite(LED_BUILTIN, LOW);
   }
 }
+
+
+
+// 6:26 - 8:16 = 1h 50 min
