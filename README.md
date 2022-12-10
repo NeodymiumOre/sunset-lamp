@@ -1,2 +1,2 @@
-# WashingMachineTimer
-Timer project for non-displayable washing machine
+# SunsetLamp
+Alarm clock simulating sunrise.
