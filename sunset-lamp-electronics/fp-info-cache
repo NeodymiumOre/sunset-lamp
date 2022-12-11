@@ -1,4 +1,4 @@
-3465728153147957
+3475752844337150
 Button_Switch_THT
 KSA_Tactile_SPST
 KSA http://www.ckswitches.com/media/1457/ksa_ksl.pdf
@@ -14489,6 +14489,48 @@ zglue-logo
 0
 0
 0
+iridium-footprints
+0402-cap
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+iridium-footprints
+0402-res
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+iridium-footprints
+0603-cap
+
+
+0
+2
+2
+iridium-footprints
+0603-res
+
+
+0
+2
+2
+iridium-footprints
+0805-cap
+
+
+0
+2
+2
+iridium-footprints
+0805-res
+
+
+0
+2
+2
 iridium-footprints
 BAT_CR2032
 
