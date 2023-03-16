@@ -2633,7 +2633,7 @@
     (property "Value" "100nF" (id 1) (at 78.74 45.72 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
-    (property "Footprint" "iridium-footprints:0402-cap" (id 2) (at 74.93 38.1 0)
+    (property "Footprint" "iridium-footprints:0603-cap" (id 2) (at 74.93 38.1 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
     (property "Datasheet" "" (id 3) (at 80.01 43.18 0)
@@ -2802,7 +2802,7 @@
     (property "Value" "220R" (id 1) (at 148.59 34.29 90)
       (effects (font (size 1.524 1.524)) (justify right))
     )
-    (property "Footprint" "iridium-footprints:0402-res" (id 2) (at 140.97 27.94 0)
+    (property "Footprint" "iridium-footprints:0603-res" (id 2) (at 140.97 27.94 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
     (property "Datasheet" "" (id 3) (at 146.05 33.02 0)
@@ -3134,7 +3134,7 @@
     (property "Value" "220R" (id 1) (at 201.93 35.56 90)
       (effects (font (size 1.524 1.524)) (justify right))
     )
-    (property "Footprint" "iridium-footprints:0402-res" (id 2) (at 194.31 29.21 0)
+    (property "Footprint" "iridium-footprints:0603-res" (id 2) (at 194.31 29.21 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
     (property "Datasheet" "" (id 3) (at 199.39 34.29 0)
@@ -3322,7 +3322,7 @@
     (property "Value" "10nF" (id 1) (at 44.45 45.72 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
-    (property "Footprint" "iridium-footprints:0402-cap" (id 2) (at 40.64 38.1 0)
+    (property "Footprint" "iridium-footprints:0603-cap" (id 2) (at 40.64 38.1 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
     (property "Datasheet" "" (id 3) (at 45.72 43.18 0)
@@ -3348,7 +3348,7 @@
     (property "Value" "100nF" (id 1) (at 53.34 45.72 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
-    (property "Footprint" "iridium-footprints:0402-cap" (id 2) (at 57.15 38.1 0)
+    (property "Footprint" "iridium-footprints:0603-cap" (id 2) (at 57.15 38.1 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
     (property "Datasheet" "" (id 3) (at 52.07 43.18 0)
@@ -3374,7 +3374,7 @@
     (property "Value" "10nF" (id 1) (at 87.63 45.72 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
-    (property "Footprint" "iridium-footprints:0402-cap" (id 2) (at 91.44 38.1 0)
+    (property "Footprint" "iridium-footprints:0603-cap" (id 2) (at 91.44 38.1 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
     (property "Datasheet" "" (id 3) (at 86.36 43.18 0)
@@ -3756,16 +3756,16 @@
       (reference "BT1") (unit 1) (value "CR-2032") (footprint "iridium-footprints:BAT_CR2032")
     )
     (path "/a3aaf939-9e32-4f72-a8c6-ba8a96b4a893"
-      (reference "C1") (unit 1) (value "10nF") (footprint "iridium-footprints:0402-cap")
+      (reference "C1") (unit 1) (value "10nF") (footprint "iridium-footprints:0603-cap")
     )
     (path "/a5294fa7-055c-42af-9d60-7d43b239587d"
-      (reference "C2") (unit 1) (value "100nF") (footprint "iridium-footprints:0402-cap")
+      (reference "C2") (unit 1) (value "100nF") (footprint "iridium-footprints:0603-cap")
     )
     (path "/25838781-5ce9-4520-93a2-4106eb117bec"
-      (reference "C3") (unit 1) (value "100nF") (footprint "iridium-footprints:0402-cap")
+      (reference "C3") (unit 1) (value "100nF") (footprint "iridium-footprints:0603-cap")
     )
     (path "/a7bb5f4d-d0b0-47d5-afc4-62961ade8ebd"
-      (reference "C4") (unit 1) (value "10nF") (footprint "iridium-footprints:0402-cap")
+      (reference "C4") (unit 1) (value "10nF") (footprint "iridium-footprints:0603-cap")
     )
     (path "/6c06e1de-6d5e-44c5-85bd-4872e5686bca"
       (reference "C5") (unit 1) (value "10nF") (footprint "iridium-footprints:0402-cap")
@@ -3804,7 +3804,7 @@
       (reference "Q1") (unit 1) (value "IRL3705N") (footprint "iridium-footprints:TO-220")
     )
     (path "/7a6a26a7-0db1-4c8c-a1ff-82fbd4f01d7e"
-      (reference "R1") (unit 1) (value "220R") (footprint "iridium-footprints:0402-res")
+      (reference "R1") (unit 1) (value "220R") (footprint "iridium-footprints:0603-res")
     )
     (path "/2cb36f5a-8a33-474f-89cc-00bdb2606517"
       (reference "R2") (unit 1) (value "220R") (footprint "iridium-footprints:0402-res")
@@ -3825,7 +3825,7 @@
       (reference "R7") (unit 1) (value "10k") (footprint "iridium-footprints:0402-res")
     )
     (path "/403c2856-5cc9-44ee-96a2-15b077084639"
-      (reference "R8") (unit 1) (value "220R") (footprint "iridium-footprints:0402-res")
+      (reference "R8") (unit 1) (value "220R") (footprint "iridium-footprints:0603-res")
     )
     (path "/73e65dee-8fb2-461d-954b-85e87c80f3bc"
       (reference "RV1") (unit 1) (value "10k") (footprint "iridium-footprints:TrimmPotentiometer")
