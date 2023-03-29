@@ -1,9 +1,7 @@
 /******************************************************************************
  * Code by IridiumOre
  * 
- * WashingMachineTimer on millis() scheduler
- * 
- * Wash Machine Model: Electrolux EWT 11262ILW
+ * SunsetLamp on millis() scheduler
  * 
  * ***************************************************************************/
 
